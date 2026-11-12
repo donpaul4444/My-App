@@ -24,6 +24,7 @@ const LoginForm = () => {
     <p>main2</p>
     <p>Rebase1</p>
     <p>Rebase2</p>
+    <p>Rebase3</p>
       <input
         type="email"
         placeholder="Email"
