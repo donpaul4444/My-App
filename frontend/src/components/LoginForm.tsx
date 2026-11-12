@@ -20,7 +20,7 @@ const LoginForm = () => {
     <form
       onSubmit={handleSubmit(onSubmit)}
       className="border-2 flex  flex-col w-80 p-5 gap-5 justify-center items-center"
-    ><p>Test4</p>
+    ><p>Test6</p>
       <input
         type="email"
         placeholder="Email"
