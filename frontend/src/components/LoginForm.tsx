@@ -22,6 +22,7 @@ const LoginForm = () => {
       className="border-2 flex  flex-col w-80 p-5 gap-5 justify-center items-center"
     ><p>Test7</p>
     <p>main2</p>
+    <p>Rebase1</p>
       <input
         type="email"
         placeholder="Email"
