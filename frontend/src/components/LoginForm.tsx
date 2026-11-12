@@ -23,6 +23,7 @@ const LoginForm = () => {
     ><p>Test7</p>
     <p>main2</p>
     <p>Rebase1</p>
+    <p>Rebase2</p>
       <input
         type="email"
         placeholder="Email"
